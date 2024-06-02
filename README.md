@@ -1,6 +1,6 @@
 # Selenium-Bus-Trip-Scraper
 
-## Bus Trip Scraper
+## Selenium Bus Trip Scraper
 
 **Bus Trip Scraper** automates searching for bus trips between two locations on a specified date using MakeMyTrip. Utilizing Selenium for web automation and BeautifulSoup for HTML parsing, it extracts bus details like names, types, and prices, saving the data into a CSV file for easy access and analysis.
 
