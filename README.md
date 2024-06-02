@@ -103,10 +103,15 @@ driver.quit()
 
 ### Sample Output:-
 
+#### Console-
 ![Screenshot 2024-06-02 230619](https://github.com/SriHarishb/Selenium-Bus-Trip-Scraper/assets/150308442/0c828a34-3af5-4733-963a-da3c0fef4ccd)
 
+
+#### CSV File-
 ![Screenshot 2024-06-02 230725](https://github.com/SriHarishb/Selenium-Bus-Trip-Scraper/assets/150308442/7fa09b99-95f2-472c-b911-eda79d374237)
 
+
+#### Excel Sheet-
 ![Screenshot 2024-06-02 230816](https://github.com/SriHarishb/Selenium-Bus-Trip-Scraper/assets/150308442/76b05b10-0fa4-4041-849b-07a22587d892)
 
 ### Conlusion:-
